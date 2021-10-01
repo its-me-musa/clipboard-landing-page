@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Repo](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution Repo](https://github.com/its-me-musa/clipboard-landing-page)
+- Live Site URL: [Live Site](https://hopeful-chandrasekhar-36b9e4.netlify.app)
 
 ## My process
 
